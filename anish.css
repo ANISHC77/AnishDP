@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background: url(/redBG.png) no-repeat;
+    background: url(images/redBG.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
