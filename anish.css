@@ -5,9 +5,13 @@
   font-family: "Monaco", sans-serif;
 }
 
+h1 {
+    margin-top: 500;
+}
+
 body {
     min-height: 100vh;
-    background: url(/images/redBG.png) no-repeat;
+    background: url(../images/redBG.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
