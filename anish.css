@@ -11,8 +11,8 @@ h1 {
 
 body {
     min-height: 100vh;
-/*     background: url("/images/redBG.png") no-repeat; */
-    background-color: black;
+    background: url(./images/redBG.png) no-repeat;
+/*     background-color: black; */
     background-size: cover;
     background-position: center;
 }
