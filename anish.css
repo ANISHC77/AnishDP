@@ -160,3 +160,12 @@ z-index: 100;
     margin-top: 16px;
     color: #fff;
 }
+
+.researchContainer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cyberScholarsContainer {
+    padding-bottom: 50px;
+}
